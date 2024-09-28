@@ -31,3 +31,13 @@ This project demonstrates a password entry system using the ESP8266 microcontrol
 1. **Clone the Repository**:
    ```bash
    https://github.com/Yamil-Serrano/ESP8266-Keypad-Password-Entry-System.git
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to me:
+
+GitHub: [Neowizen](https://github.com/Yamil-Serrano)
